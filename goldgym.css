@@ -1,0 +1,27 @@
+body{
+    background: url("file:///C:/Users/WC/Desktop/New%20folder/Projects/Gym%20coming%20sson/Images/athlete-barbell-body-949126.jpg")
+        no-repeat center center fixed;
+        background-size: cover;
+}
+div{
+    opacity: 0.5;
+    background-color: black;
+    text-align: center;
+    width: 0auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+    
+}
+h1{
+    color:#167C7A;
+    font-family: 'Kaushan Script', cursive;
+  
+}
+h4{
+    color:white;
+}
+h2{
+    color: white;
+}
